@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "src/*": ["./src/*"],
+      "common/*": ["./src/common/*"],
+      "components/*": ["./src/components/*"],
+      "modules/*": ["./src/modules/*"],
+      "navigation/*": ["./src/navigation/*"],
+      "services/*": ["./src/services/*"],
+      "__mocks__/*": ["./__mocks__/*"],
+      "assets/*": ["./assets/*"],
+    }
+  },
+  "exclude": ["node_modules"]
+}
