@@ -62,5 +62,4 @@ buck-out/
 !*.secret
 .env.production
 .env.staging
-.env
 .env.dev
